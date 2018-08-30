@@ -17,4 +17,4 @@ Of course if you ever have any problems or questions you can contact me and I wi
 Assembly instructions can be found here: [instructions](https://github.com/MaslowCNC/Mechanics/wiki/Assembly-Instructions-for-Triangulation-Linkage-Kit)
 
 More information about Maslow CNC can be found at www.maslowcnc.com
-More information about this linkage design can be found in the Maslow forums at: [forums][http://forums.maslowcnc.com/t/throwing-my-hat-in-the-sled-modification-ring/193/584]
+More information about this linkage design can be found in the Maslow forums at: [forums](http://forums.maslowcnc.com/t/throwing-my-hat-in-the-sled-modification-ring/193/584)
