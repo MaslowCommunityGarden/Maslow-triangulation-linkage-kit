@@ -8,7 +8,7 @@ The hardware in the pictures with white backgrounds is what will be shipping (th
 
 This kit includes brackets for attaching chains!
 
-Current wait time is approximately 3 weeks (see note above); this timeframe depends on many different factors such as availability of hardware and how many orders I am filling. If the timeline needs to change I will be sure to communicate with you. 
+The wait time varies but kits usually ship within 5 days of placing an order; this timeframe depends on many different factors such as availability of hardware and how many orders I am filling. If the timeline needs to change I will be sure to communicate with you. 
 
 If you need your kit sooner than the estimated shipping date I can expedite orders for a small fee. Just contact me and let me know.
 
