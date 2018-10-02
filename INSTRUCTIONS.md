@@ -18,22 +18,24 @@ This kit works and has been tested but is still under development, I plan to imp
 
 Your kit consists of 18 laser-cut wooden parts to make up the 6 linkage bars (bar A through F). Each bar is made up of 3 layers. The layers for each bar are labeled 1, 2, and 3 to denote the order that they should be stacked in.  You will also find a small bag of hardware and a small bag of wooden parts. 
 ![Kit Contents](https://raw.githubusercontent.com/MaslowCNC/Mechanics/62a7302d3cc7d7d5084461a3e1bd1998ec04bf24/Documentation/Linkage%20Kit%20Intructions/LinkageKitF01.jpg)
+
 *Fig. 1 - These are the 18 parts for the linkage bars*
 
 ![Fig. 2 - A finished linkage with the included hardware, ready to mount](https://raw.githubusercontent.com/MaslowCNC/Mechanics/62a7302d3cc7d7d5084461a3e1bd1998ec04bf24/Documentation/Linkage%20Kit%20Intructions/LinkageKitF02.jpg)
+
 *Fig. 2 - A finished linkage with the included hardware, ready to mount*
 
 Aside from the 18 wooden parts that glue together to make the 6 linkage bars there will also be 6 smaller wooden parts in a small plastic bag labelled G1, G2, and G3 that make up the clevises. 
 
 The hardware is all in one small bag. There will be:
-- 4x 1/4" female barrel bolts 1/2" long, #10-24 thread
-- 6x 1/4" mating screws with a 1/4" shoulder and #10-24 x 5/16" thread
-- 2x 1/4" female barrel bolts 1" long, #10-24 thread
-- 4x 4" #10-24 machine screws
-- 4x 3/8" OD #10 x 3/4" nylon bushing
-- 4x #10-24 nylock nuts
-- 4x #10 SAE flat washers
-- 2x 3/32" x 1" zinc plated steel cotter pins
+* 4x 1/4" female barrel bolts 1/2" long, #10-24 thread
+* 6x 1/4" mating screws with a 1/4" shoulder and #10-24 x 5/16" thread
+* 2x 1/4" female barrel bolts 1" long, #10-24 thread
+* 4x 4" #10-24 machine screws
+* 4x 3/8" OD #10 x 3/4" nylon bushing
+* 4x #10-24 nylock nuts
+* 4x #10 SAE flat washers
+* 2x 3/32" x 1" zinc plated steel cotter pins
 
 ### Sled preparation
 Before you begin assembling your linkage you should mark your sled for accurate placement of the mounting blocks. You can either download and print the paper template: <a href="https://drive.google.com/open?id=0B-fNup9t3Gwrc1dZNjVvV3JDa0U">Printable sled drilling template</a> Or you can mark your sled without a printer by using B1 as a compass to ensure you have accurate measurements. Simply divide your sled evenly into 4ths (two lines that cross at 90˚), then with the center hole of B1 at the exact center of the sled mark where the outer holes cross your dividing lines (fig. 3). You will have 4 marks. If you have a sled that already has a large center hole for a router then mount your router to your sled (as you normally would) and chuck a ¼” drill bit (or any ¼” stock) into the router. Extend the drill bit through the sled so it protrudes out the back. Slide the center hole of B1 onto the drill bit and mark your 4 spots as above. Next drill a hole at each mark using a no. 9 or 3/16” drill bit. Take care to avoid any hardware on the top of the sled (like z-axis brackets or router handles). 
