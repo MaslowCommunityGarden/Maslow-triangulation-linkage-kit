@@ -168,6 +168,9 @@ I don't know if people are experiencing these problems but these are the things 
 ### I can't see my linkages; everything is black.
 * Turn on the light. It's always smart to use your Maslow with the room lights on. 
 
+### The wooden pieces don't look straight. 
+* There are a few kits in which you might notice the wooden pieces have a slight bow in them, this bow will go away when you glue and clamp the pieces together. Just ensure that you have it flat while it dries, I would suggest laying it on a table and putting weights on it. This is an extremely rare thing and has happened to less than 0.8% of the kits shipped. They were accidentally cut with the main wood grain running the wrong direction and I only found out after a few kits had shipped (less than 10 total). This should not affect strength or accuarcy to any detriment. If you have concerns or need a replacement piece please let me know. 
+
 ### The bars are not rubbing but there's still a lot of friction!
 * Some friction in the joints is totally okay, things will loosen up with use. If you find there's too much friction in the joints you can gently ream them with a drill bit (by hand, not with a drill) or even use a smooth shank of the right diameter to "work" the mounting hole until it feels right. To understand why some friction on these joints is not a big problem you can read [this post](https://forums.maslowcnc.com/t/throwing-my-hat-in-the-sled-modification-ring/193/595) in the forums.
 
